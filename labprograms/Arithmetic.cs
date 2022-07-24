@@ -1,7 +1,4 @@
-/***************************************************************
-                alphabetacoder.com
- C# program for addition, subtraction, multiplication, division
-****************************************************************/
+
 
 using System;
 
